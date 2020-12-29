@@ -9,6 +9,7 @@ poetry install
 ```
 export SLACK_CLIENT_ID=111.111
 export SLACK_CLIENT_SECRET=\*\*\*
+export SLACK_AUTH_REDIRECT_URL=http://localhost:3004/slack-auth-redirect
 ```
 
 # run
